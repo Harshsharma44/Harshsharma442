@@ -1,0 +1,60 @@
+.data{   
+    padding-bottom: 2%;
+    text-align: center;
+    width: 90%;
+    height: auto;
+    background-color: white;
+    margin: 5% auto 5% auto;
+    border-radius: 3%;
+    box-shadow: 5px 8px 8px 1px;
+    background-color:rgb(240, 230, 230);
+    font-family: 'Garamond', serif;
+}
+ 
+ 
+ h1{
+    text-align: center;
+}
+
+
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    border:3px solid pink;
+  }
+
+  table,tr,td {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width:25%;
+    border:1px solid brown;
+  }
+  label{
+      padding-left: 7cm;
+  }
+
+  body{
+ 
+    background-image: linear-gradient(rgb(38, 155, 135), rgba(255, 255, 255, 0.767));
+}
+.application1{
+    float: left;
+    margin-left: 5%;
+}
+.application2{
+    margin-bottom: 2%;
+}
+
+ul{
+    text-align: center;
+    list-style: none;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 95px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid darkgreen;
+}
